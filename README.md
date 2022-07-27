@@ -8,3 +8,7 @@
 
 - tutorial:
 >fpk [adb port]
+
+# Info
+
+Para os não iniciados, o PhantomProcesskiller é um novo mecanismo no Android 12 que elimina processos filho bifurcados iniciados por aplicativos se estiverem usando CPU excessiva enquanto os processos do aplicativo pai também estiverem em segundo plano. Além disso, a mudança permite apenas até 32 processos filhos
