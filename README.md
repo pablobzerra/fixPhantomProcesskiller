@@ -2,6 +2,7 @@
 
 - ADB-TERMUX:
 >https://github.com/MasterDevX/Termux-ADB
+>
 >adb pair IP:Port code
 
 - Instalação:
