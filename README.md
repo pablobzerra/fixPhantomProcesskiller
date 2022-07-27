@@ -1,11 +1,11 @@
 #FixPhantomProcessKill
 
-ADB-TERMUX:
+-ADB-TERMUX:
+>https://github.com/MasterDevX/Termux-ADB
 
-https://github.com/MasterDevX/Termux-ADB
-
-Instalação:
+-Instalação:
 > wget https://github.com/pablobzerra/fixPhantomProcesskiller || mv fixPhantom $PATH/fpk || chmod +x $PATH/fpk
 
-tutorial:
+-tutorial:
 >fpk [adb port]
+
